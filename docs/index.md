@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Intro to Materials Science.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome!  I'm [Scott](https://materials-lab.io/people).
 
-## Commands
+## Syllabus
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+First Header | Second Header | Third Header
+------------ | ------------- | ------------
+Content Cell | Content Cell  | Content Cell
+Content Cell | Content Cell  | Content Cell
