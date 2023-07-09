@@ -1,0 +1,6 @@
+site_name: Introduction to Materials Science
+site_url: https://intromatsci.com/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
