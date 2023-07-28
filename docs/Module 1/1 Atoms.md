@@ -143,4 +143,4 @@ F  | -1  | 6  | 1.330
 
 ## Atomic shell structure
 
-One of the most foundational ideas that informs atomic structure is the Pauli ex
+One of the most foundational ideas that informs atomic structure is the Pauli exclusion principle.
